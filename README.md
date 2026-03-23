@@ -84,32 +84,7 @@ Multiple classifiers were trained and evaluated. The best-performing model was s
 
 ---
 
-## 📁 Project Structure
 
-```
-Diabetes Prediction [END 2 END]/
-│
-├── 📂 Dataset/
-│   └── diabetes.csv              # Pima Indians Diabetes dataset
-│
-├── 📂 Model/
-│   └── diabetes_model.pkl        # Serialized trained model (pickle)
-│
-├── 📂 notebooks/
-│   └── diabetes_prediction.ipynb # EDA, training, and evaluation notebook
-│
-├── 📂 static/
-│   └── css/
-│       └── style.css             # App styling
-│
-├── 📂 templates/
-│   ├── index.html                # Home / input form
-│   └── result.html               # Prediction result page
-│
-├── app.py                        # Flask application entry point
-├── requirements.txt              # Python dependencies
-└── README.md                     # You are here
-```
 
 ---
 
