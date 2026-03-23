@@ -2,7 +2,7 @@
 # 🩺 Diabetes Prediction
 
 
-# 🧠 About the Project
+## 🧠 About the Project
 
 Diabetes is one of the most prevalent chronic diseases worldwide, and early detection significantly improves patient outcomes. This project builds a **binary classification model** to predict whether a patient is likely to have diabetes based on diagnostic measurements, and wraps it in an interactive **Flask web application** so anyone can get a prediction by entering their health values.
 
@@ -15,7 +15,7 @@ Diabetes is one of the most prevalent chronic diseases worldwide, and early dete
 
 ---
 
-# 📊 Dataset
+## 📊 Dataset
 
 | Property | Details |
 |----------|---------|
@@ -28,7 +28,7 @@ Diabetes is one of the most prevalent chronic diseases worldwide, and early dete
 
 ---
 
-# 🔬 Features Used
+## 🔬 Features Used
 
 | Feature | Description |
 |---------|-------------|
@@ -43,7 +43,7 @@ Diabetes is one of the most prevalent chronic diseases worldwide, and early dete
 
 ---
 
-# 🤖 Model & Performance
+## 🤖 Model & Performance
 
 Multiple classifiers were trained and evaluated. The best-performing model was selected for deployment.
 
@@ -65,7 +65,7 @@ Multiple classifiers were trained and evaluated. The best-performing model was s
 
 ---
 
-# 🚀 Getting Started
+## 🚀 Getting Started
 
 ### 1. Clone the repository
 
@@ -106,7 +106,7 @@ Open your browser and navigate to → **http://127.0.0.1:5000**
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 | Layer | Technology |
 |-------|-----------|
@@ -121,7 +121,7 @@ Open your browser and navigate to → **http://127.0.0.1:5000**
 
 ---
 
-# 📚 References
+## 📚 References
 
 - [Pima Indians Diabetes Dataset — Kaggle](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 - [scikit-learn Documentation](https://scikit-learn.org/stable/)
