@@ -8,19 +8,6 @@
 
 ---
 
-## 📌 Table of Contents
-
-- [About the Project](#-about-the-project)
-- [Dataset](#-dataset)
-- [Features Used](#-features-used)
-- [Model & Performance](#-model--performance)
-- [Project Structure](#-project-structure)
-- [Getting Started](#-getting-started)
-- [App Screenshots](#-app-screenshots)
-- [Tech Stack](#-tech-stack)
-
----
-
 ## 🧠 About the Project
 
 Diabetes is one of the most prevalent chronic diseases worldwide, and early detection significantly improves patient outcomes. This project builds a **binary classification model** to predict whether a patient is likely to have diabetes based on diagnostic measurements, and wraps it in an interactive **Flask web application** so anyone can get a prediction by entering their health values.
