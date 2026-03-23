@@ -105,7 +105,7 @@ Open your browser and navigate to → **http://127.0.0.1:5000**
 
 > The web app presents a clean form where users input their health metrics and receive an instant prediction.
 
-![](https://github.com/shsarv/Machine-Learning-Projects/blob/main/Diabetes%20Prediction%20%5BEND%202%20END%5D/Diabetes-prediction%20deployed/Resource/live1.gif)
+![](https://github.com/Aaditi-Patole/Diabetes-Prediction/edit/main/Diabetes-prediction%20deployed/Resource/live1.gif)
 
 ---
 
