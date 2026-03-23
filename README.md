@@ -89,8 +89,8 @@ Multiple classifiers were trained and evaluated. The best-performing model was s
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/shsarv/Machine-Learning-Projects.git
-cd "Machine-Learning-Projects/Diabetes Prediction [END 2 END]"
+git clone https://github.com/Aaditi-Patole/Diabetes-Prediction.git
+cd "Diabetes-Prediction"
 ```
 
 ### 2. Create a virtual environment (recommended)
@@ -115,23 +115,11 @@ python app.py
 
 Open your browser and navigate to → **http://127.0.0.1:5000**
 
-### 5. (Optional) Re-train the model
-
-Open the Jupyter notebook to explore the data and retrain from scratch:
-
-```bash
-jupyter notebook notebooks/diabetes_prediction.ipynb
-```
-
 ---
 
 ## 📸 App Screenshots
 
 > The web app presents a clean form where users input their health metrics and receive an instant prediction.
-
-| Input Form | Prediction Result |
-|:----------:|:-----------------:|
-| User enters 8 health parameters | App displays **Diabetic** or **Not Diabetic** with confidence |
 
 ![](https://github.com/shsarv/Machine-Learning-Projects/blob/main/Diabetes%20Prediction%20%5BEND%202%20END%5D/Diabetes-prediction%20deployed/Resource/live1.gif)
 
@@ -160,10 +148,3 @@ jupyter notebook notebooks/diabetes_prediction.ipynb
 
 ---
 
-<div align="center">
-
-Part of the [Machine Learning Projects](https://github.com/shsarv/Machine-Learning-Projects) collection by [Sarvesh Kumar Sharma](https://github.com/shsarv)
-
-⭐ Star the main repo if this helped you!
-
-</div>
