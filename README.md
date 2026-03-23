@@ -1,10 +1,6 @@
 
 # 🩺 Diabetes Prediction
 
-> A full **end-to-end machine learning web application** that predicts the likelihood of diabetes in a patient based on key health diagnostics — from model training to a live Flask deployment.
-
----
-
 ## 🧠 About the Project
 
 Diabetes is one of the most prevalent chronic diseases worldwide, and early detection significantly improves patient outcomes. This project builds a **binary classification model** to predict whether a patient is likely to have diabetes based on diagnostic measurements, and wraps it in an interactive **Flask web application** so anyone can get a prediction by entering their health values.
