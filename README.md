@@ -1,10 +1,7 @@
-<div align="center">
 
-# 🩺 Diabetes Prediction — End to End
+# 🩺 Diabetes Prediction
 
 > A full **end-to-end machine learning web application** that predicts the likelihood of diabetes in a patient based on key health diagnostics — from model training to a live Flask deployment.
-
-</div>
 
 ---
 
