@@ -84,10 +84,6 @@ Multiple classifiers were trained and evaluated. The best-performing model was s
 
 ---
 
-
-
----
-
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
