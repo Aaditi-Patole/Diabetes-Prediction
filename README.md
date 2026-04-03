@@ -102,7 +102,7 @@ Open your browser and navigate to → **http://127.0.0.1:5000**
 
 > The web app presents a clean form where users input their health metrics and receive an instant prediction.
 
-![](https://raw.githubusercontent.com/Aaditi-Patole/Diabetes-Prediction/main/Diabetes-prediction%20deployed/Resource/live.gif)
+![App Demo](Diabetes-prediction deployed/Resource/live.gif)
 
 ---
 
